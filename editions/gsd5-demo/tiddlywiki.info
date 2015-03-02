@@ -1,5 +1,5 @@
 {
-	"description": "GSD5 edition",
+	"description": "GSD5 empty",
 	"plugins": [
 		"gsd5/core"
 	],
